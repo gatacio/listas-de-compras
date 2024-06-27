@@ -1,7 +1,7 @@
-HEAD
 Lista de compras:
-- Item 2
-- Item 2
 
 1. Carne \n 2. Cerveza \n 3. Carbon
-94d63398c201d492deff27bcf1fd8e35b6432431
+4. Torta
+5. Pan 
+6.Bebida
+
